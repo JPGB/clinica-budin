@@ -23,7 +23,7 @@
   ];
 </script>
 
-<div class="flex flex-col items-center justify-center text-center">
+<div class="flex flex-col items-center justify-center text-center max-w-11">
   <h1 class="mt-2 text-2xl font-bold">Perguntas Frequentes</h1>
   {#each faq as faqItem}
     <div class="p-4 my-4 border-gray-300 rounded-lg">
